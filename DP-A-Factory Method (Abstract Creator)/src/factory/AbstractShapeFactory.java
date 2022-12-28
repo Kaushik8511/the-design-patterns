@@ -1,4 +1,4 @@
-package creator;
+package factory;
 
 import product.Shape;
 

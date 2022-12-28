@@ -1,8 +1,8 @@
 package client;
 
-import creator.impl.CircleFactory;
-import creator.impl.RectangleFactory;
-import creator.impl.SquareFactory;
+import factory.impl.CircleFactory;
+import factory.impl.RectangleFactory;
+import factory.impl.SquareFactory;
 import product.Shape;
 
 public class Main {

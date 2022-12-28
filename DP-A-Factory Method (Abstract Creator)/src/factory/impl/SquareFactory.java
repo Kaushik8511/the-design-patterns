@@ -1,6 +1,6 @@
-package creator.impl;
+package factory.impl;
 
-import creator.AbstractShapeFactory;
+import factory.AbstractShapeFactory;
 import product.Shape;
 import product.Square;
 
