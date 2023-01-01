@@ -1,3 +1,5 @@
 # the-design-patterns
 
-Going to implement all the design patterns mentioned by the gang of four.
+Have implemented 23 design patterns mentioned in the gang of four.
+
+#DONE!!!
